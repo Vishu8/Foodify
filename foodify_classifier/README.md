@@ -8,7 +8,7 @@ This is the Machine Learning Image Classification files from which 6 classes of 
 
 To execute machine learning model install all in requirements.txt
 
-    `pip install -r requirements.txt`
+   `pip install -r requirements.txt`
 
 ## Dataset
 
@@ -25,12 +25,12 @@ The `packed_food_dataset` is the dataset of this project. It consists of 6 class
 
 To train the model run the `train.py` with the following command:
 
-    `python train.py --image_dir packed_food_dataset --how_many_training_steps NO_OF_TRAINING_STEPS`
+   `python train.py --image_dir packed_food_dataset --how_many_training_steps NO_OF_TRAINING_STEPS`
 
 To train the model run the `test.py` with the following command:
 
-    `python test.py test_food.jpg`
+   `python test.py test_food.jpg`
 
 To see the training logs in Tensorboard run the following command:
 
-    `tensorboard --logdir train_files/train_logs`
+   `tensorboard --logdir train_files/train_logs`
