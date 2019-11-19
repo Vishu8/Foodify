@@ -27,6 +27,5 @@ We came up with a web application using machine learning which keeps the tracks 
 **NOTE:** Port No. may vary.
 
 # LICENSE
-----
 
 MIT
