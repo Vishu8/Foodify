@@ -25,3 +25,8 @@ We came up with a web application using machine learning which keeps the tracks 
 4. In browser goto URL and type  `http://localhost/foodify` .
 
 **NOTE:** Port No. may vary.
+
+# LICENSE
+----
+
+MIT
