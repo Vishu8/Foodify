@@ -17,6 +17,10 @@ We came up with a web application using machine learning which keeps the tracks 
 
 2. Install XAMPP
 
+# ML Model
+
+To run the ML training and testing process go through steps in `foodify_classifier` folder.
+
 # Run App
 
 1. Import the **fitbit.sql** and **foodify.sql** files to database name **fitbitapi** and **foodify** respectively in **phpmyadmin**.
@@ -26,6 +30,6 @@ We came up with a web application using machine learning which keeps the tracks 
 
 **NOTE:** Port No. may vary.
 
-# LICENSE
+# License
 
 MIT
